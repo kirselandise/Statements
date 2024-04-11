@@ -1,5 +1,6 @@
 # Statements
 Account Statements for CS353
+
 Trinity McCann
 
 ### How to Run
@@ -10,8 +11,13 @@ Code was not used from any materials outside of classwork. Claude and ChatGPT we
 
 ### Outputs
 Console output
+
 ![image](https://github.com/kirselandise/Statements/assets/83589688/72178a5b-51f0-41f0-b3f7-1a07119bf9b1)
+
 File output
+
 ![image](https://github.com/kirselandise/Statements/assets/83589688/5bcc6cf3-bece-46d3-8a54-5f35282cd6ec)
+
 File contents
+
 ![image](https://github.com/kirselandise/Statements/assets/83589688/660d1d7a-6935-4066-8770-b1443cc6ea5a)
